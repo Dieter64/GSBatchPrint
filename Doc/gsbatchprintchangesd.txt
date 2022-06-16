@@ -1,0 +1,13 @@
+Änderungen für gsbatchprint                
+----------------------
+1.0.0.3
+- gsbatchprint ist Freeware
+- geändertes Ghostscript 8.63 wird mitgeliefert
+
+1.0.0.1
+- englisches Handbuch
+- das Laden der gswin32.dll aus dem aktuellen Verzeichnis hat nicht richtig 
+funktioniert
+
+1.0.0.0 
+- erste Version

@@ -1,0 +1,12 @@
+history for gsbatchprint                
+----------------------
+1.0.0.3
+- gsbatchprint is now freewaer
+- changed Ghostscript 8.63 included
+
+1.0.0.1
+- english manual
+- gswin32.dll loaded from actual path did not work correctly
+
+1.0.0.0 
+- initial version

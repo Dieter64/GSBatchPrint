@@ -1,5 +1,8 @@
 Änderungen für gsbatchprint                
 ----------------------
+1.0.0.4
+- Entfernen von Ghostscript aus dem Download Paket
+
 1.0.0.3
 - gsbatchprint ist Freeware
 - geändertes Ghostscript 8.63 wird mitgeliefert

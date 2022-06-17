@@ -1,11 +1,10 @@
 
 // gsBatchPrint
-#define VER_LEGALCOPYRIGHT_YEARS "2008"
-#define VER_LEGALCOPYRIGHT_STR   "Dieter Riekert (C) " VER_LEGALCOPYRIGHT_YEARS
+#define VER_LEGALCOPYRIGHT_STR   "MIT License (MIT) Copyright © 2022 Dieter Riekert"
 #define VER_COMPANYNAME_STR      "Dieter Riekert"
-#define VER_FILEDESC             "Batchprint von PDF-Dateien mit Ghostscript"
+#define VER_FILEDESC             "Batchprint of PDF files using Ghostscript"
 #define VER_TRADEMARKS           ""
-#define VER_COMMENTS             "Nutzt das Ghostscript Device 'mswinpr2''"
+#define VER_COMMENTS             "Licensed under MIT License and hosted on github"
 #define VER_PRODUCTNAME          "gsBatchPrint"
 
 #define VER_4 1

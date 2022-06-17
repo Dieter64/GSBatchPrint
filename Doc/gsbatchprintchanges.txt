@@ -1,7 +1,10 @@
 history for gsbatchprint                
 ----------------------
+1.0.0.4
+- Removing Ghostscript from the download package
+
 1.0.0.3
-- gsbatchprint is now freewaer
+- gsbatchprint is now freeware
 - changed Ghostscript 8.63 included
 
 1.0.0.1
